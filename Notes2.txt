@@ -1,0 +1,36 @@
+To lanch the applcation speadly 
+develpment team plans,code,build and test the application 
+operation team deploy,operation,monitoring 
+opeational team deploye, monitor operate and maintain the application
+
+Deployment-It is the proess of an application in server 
+installing the application from local to server is called as deployment 
+from server all the people cn access the server 
+5 differnt menthos od deployment the server 
+monitor means checking how my application is working
+ what is server?
+===================
+server will serve the services to the end users 
+Web serve:- to show the application 
+To create server we need to have the cloud account 
+EC2 instances have 7 steps to create 
+
+
+
+
+types of testing 
+===================
+
+manual testing are of 3 types 
+1) White box testing
+2) Black box testing========i)Functional testing ii)Non-Functional testing  
+3) Grey box testing 
+i)Functional testing                  ii) Non-fnctional testing 
+ - Unit testing                           - Performance testing------Load testing, stress testing, scalability testibg,stability testing
+ - Integration testing                    - Usability testing
+ - System testing                         - Compatibility testing
+
+ 1) White box testing
+ Defination
+=============
+ This techiniques analyze the internal structures the used data structures, internal design, code structure, and the working of the software rather than just the functionality as in black box testing 
